@@ -1,0 +1,17 @@
+# Quantum Physics Core
+qiskit>=1.0.0
+qiskit-algorithms>=0.3.0
+qiskit-aer>=0.13.0
+
+# Quantum Chemistry Stack
+qiskit-nature>=0.7.0
+pyscf>=2.4.0
+
+# Frontend & Visualization
+streamlit>=1.30.0
+plotly>=5.18.0
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Utilities
+python-dotenv>=1.0.0
